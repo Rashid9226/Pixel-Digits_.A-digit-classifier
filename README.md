@@ -1,1 +1,1 @@
-# Pixel_Digits-A-digit-classifier
+# Pixel_Digits: A digit classifier
